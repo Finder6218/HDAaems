@@ -4,3 +4,4 @@
 关于本系统更多信息，请参阅:http://www.inmis.com/product_view.asp?id=1510
 关于本系统的在线体验请点击:http://www.inmis.com:8076/?Aaems
 更多管理系统的在线体验可以到宏达管理软件体验中心( www.inmis.com ) 或 宏达管理软件下载服务在线 ( www.hdcsc.com ) 在线体验。
+
